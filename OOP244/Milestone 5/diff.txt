@@ -1,0 +1,14 @@
+In line number 74 of your output:
+The output should be:
+Vehicle type: Motorcycle
+              ^
+But your output is: 
+Vehicle type: Car
+              ^
+
+Unmatched character details:
+The character in column 15 is supposed to be:
+  [M] ASCII code(77)
+but you printed
+  [C] ASCII code(67)
+

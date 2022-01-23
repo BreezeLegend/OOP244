@@ -1,0 +1,10 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: June 21, 2020
+*/
+
+THe reason as to why we removed the const from the fight function because we are permenantly altering the object so we 
+we cant have the fucntion and parameter as the samething thing. Some things I learned while creating this code was how to 
+properly create a constructor and a destructor.

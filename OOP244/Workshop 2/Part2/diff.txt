@@ -1,0 +1,14 @@
+In line number 32 of your output:
+The output should be:
+Layers at minimum must be 1, try again.
+     ^
+But your output is: 
+Layer at minimum must be 1, try again.
+     ^
+
+Unmatched character details:
+The character in column 6 is supposed to be:
+  [s] ASCII code(115)
+but you printed
+  [Space] ASCII code(32)
+

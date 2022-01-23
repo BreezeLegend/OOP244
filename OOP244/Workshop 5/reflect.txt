@@ -1,0 +1,11 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: June 27, 2020
+*/
+
+Some things that I learned while writing this code was how to manage dynamic memory in a class, I also learned how to 
+dynamically allocated memory within a class. The final thing that I learned was how to overload members and helper functions
+in a class. Some problems that I have while writing this code was with setprecision I had to look up how to only use it 
+for engines and not everything else. 

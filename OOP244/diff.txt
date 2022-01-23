@@ -1,0 +1,14 @@
+In line number 274 of your output:
+The output should be:
+Enter Licence Plate Number: aaa
+           ^
+But your output is: 
+Enter License Plate Number: aaa
+           ^
+
+Unmatched character details:
+The character in column 12 is supposed to be:
+  [c] ASCII code(99)
+but you printed
+  [s] ASCII code(115)
+

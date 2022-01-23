@@ -1,0 +1,64 @@
+Script started on Wed 22 Jul 2020 05:14:50 PM EDT
+==93415== Memcheck, a memory error detector
+==93415== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==93415== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==93415== Command: ws
+==93415== 
+----------------------------------------
+|> T1: Checking display()
+----------------------------------------
+Doctor
+          Type: Family doctor
+      Pay Rate: 90
+     Min Hours: 30
+Doctor
+          Type: Internal medicine
+      Pay Rate: 150
+     Min Hours: 25
+Doctor
+          Type: Neuro-surgeon (specialist)
+      Pay Rate: 325
+     Min Hours: 12
+Engineer
+             Level: 12
+          Pay Rate: 75
+         Min Hours: 30
+Engineer
+             Level: 25
+          Pay Rate: 60
+         Min Hours: 30
+
+----------------------------------------
+|> T2: Doctor's weekly income
+----------------------------------------
+Employee 1
+  Under-time: 900
+   Over-time: 4050
+Employee 2
+  Under-time: 1500
+   Over-time: 7125
+Employee 3
+  Under-time: 5250
+   Over-time: 19550
+
+----------------------------------------
+|> T2: Engineer's weekly income
+----------------------------------------
+Employee 4
+     Under-time: 984
+  Overtime-time: 3480
+Employee 5
+     Under-time: 1280
+  Overtime-time: 3400
+
+==93415== 
+==93415== HEAP SUMMARY:
+==93415==     in use at exit: 0 bytes in 0 blocks
+==93415==   total heap usage: 5 allocs, 5 frees, 256 bytes allocated
+==93415== 
+==93415== All heap blocks were freed -- no leaks are possible
+==93415== 
+==93415== For lists of detected and suppressed errors, rerun with: -s
+==93415== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Wed 22 Jul 2020 05:14:51 PM EDT

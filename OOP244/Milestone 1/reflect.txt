@@ -1,0 +1,14 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: July 12, 2020
+*/
+
+One thing I learned from when I was writing workshop 6 was how to properly write a copy constructor as I wrote it 
+incorrectly on the quiz for that week. The most things I learned was when I was writing the code for milestone 1,
+which took me a little bit to debug as I had some memory leaks and errors. Some examples of this were that of using 
+delete[] title, this is where I forgot that I need to write delete[] this->title, another one was when I was stuck on 
+how to properly use the ostream function. Other than that I don't remember having too many other problems, but this was 
+a great learning experience as this program was more of a free form type of assignment and it gave a little example as
+to how we would get a project during a job.

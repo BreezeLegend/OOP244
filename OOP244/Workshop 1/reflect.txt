@@ -1,0 +1,10 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: May 30, 2020
+*/
+
+Some things I learned while making this program was how to precisely set the amount of decimal points the program would
+output. I also learned how to use #include algorithm which helps with sorting, another thing I learned was how to use 
+#include iomanip which helps with input and outout.

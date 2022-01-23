@@ -1,0 +1,12 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: August 2, 2020
+*/
+
+The Workshop was very simple and not very complicated as all you needed to add was one header file with one function 
+and a few lines of code, at the end of the day not very complicated. Milestone 5 was very self explanitory as bascially
+we only had to write the Car module and could just copy over the code you wrote in the car module into the Motorcycle
+module and just change car to sidecar and with a few adjustments you have finished the code. One thing I did learn was 
+how to use override in an istream and ostream function.

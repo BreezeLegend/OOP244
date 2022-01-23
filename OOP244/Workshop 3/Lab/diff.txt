@@ -1,0 +1,14 @@
+In line number 50 of your output:
+The output should be:
+Weight: 55.55
+      ^
+But your output is: 
+Weight 55.55
+      ^
+
+Unmatched character details:
+The character in column 7 is supposed to be:
+  [:] ASCII code(58)
+but you printed
+  [Space] ASCII code(32)
+

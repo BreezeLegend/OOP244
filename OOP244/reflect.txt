@@ -1,0 +1,12 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: August 2, 2020
+*/
+
+Some issues that that were present when writing this code was when I was trying to use the ParkingData.csv and how to 
+incorporate it into the program using ifstream and ofstream. Some other problems were that I was getting nine parking 
+spots left instead of the eight in the output example. Other than those few problems there were really not hiccups and 
+the writing process went smoothly. Thanks for having you Hong and wish you all the best and hopefully I can get a class 
+with you in the future.

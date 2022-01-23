@@ -1,0 +1,14 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: July 27, 2020
+*/
+
+Workshop 8 was not that really hard but somethings that I learned while writing the code was how to implement a pure 
+virtual function into my code, another thing that I learned was that I learned to use a abstract base class. Other than
+the things I stated before I didnt really have much trouble understanding and writing the code, other than some visual
+studio bugs which required fixing. But besides that it was to complicated as we are just using previously used code from
+earlier in workshop. Milestone 4 was a little bit complicated as I had to look up some things such as unsigned and 
+strcicmp, strcicmp helped with changing the plate numbers to uppercase and unsigned which helped with using an integer 
+to portray a true and false statement.

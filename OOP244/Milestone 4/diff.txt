@@ -1,0 +1,14 @@
+In line number 63 of your output:
+The output should be:
+Invalid Make and model, try again: ab
+                 ^
+But your output is: 
+Invalid Make and Model, try again: ab
+                 ^
+
+Unmatched character details:
+The character in column 18 is supposed to be:
+  [m] ASCII code(109)
+but you printed
+  [M] ASCII code(77)
+

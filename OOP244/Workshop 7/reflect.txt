@@ -1,0 +1,16 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: July 19, 2020
+*/
+
+Workshop 7 was not that really hard but somethings I did learn was how to access shadowed member functions and how to 
+shadow a base class member functions. Another thing I did learn was how to properly use input and out operators 
+Somethings I learned while writing this code was how to use friend before a function, another thing I also learned 
+was how to use another file as a friend in the class. In Milestone 2 there wasnt anything too complicated instead of 
+writing alot of functions. In Milestone 3 it was the same as Milestone 2 in the sense there wasnt anything too 
+complicated as we only had to write a few functions. Some issues while writing the code was that of how to properly 
+use the ostream and istream functions as only one of the functions needed ampersand and it took a little bit of searching 
+to figure what the problem was. There were really no other problems I had in any of the milestones or the workshop.
+

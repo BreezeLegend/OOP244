@@ -1,0 +1,14 @@
+In line number 64 of your output:
+The output should be:
+t2's cargo correctly not decreased below 44.2222
+                                               ^
+But your output is: 
+t2's cargo correctly not decreased below 44.222
+                                                ^
+
+Unmatched character details:
+The character in column 49 is supposed to be:
+  [2] ASCII code(50)
+but you printed
+  [Empty Line] ASCII code(0)
+

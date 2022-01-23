@@ -1,0 +1,9 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: June 5, 2020
+*/
+
+Some things that I learned while writing this code was how to encorporate arrays and methods at the same time. I also
+how learned how to properly use bool in a function.

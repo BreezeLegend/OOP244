@@ -1,0 +1,9 @@
+/*
+Name: Victor Hasnat
+Email:vhasnat@myseneca.ca
+Student #: 119485183
+Date: June 13, 2020
+*/
+
+Some things that I learned from while writing this code was how to properly use classes. Some problems that I occured
+while writing this code was how to properly write set precision while outputting the Weight in the display function.
